@@ -36,12 +36,12 @@ export default function Four() {
           <div className="bg-gray-300">
             <pre>
               <code>
-                import &#123; redirect &#125; from "next/navigation";
+                import &#123; redirect &#125; from &quot;next/navigation&quot;;
                 <br />
                 <br />
                 export default async function Blog() &#123;
                 <br />
-                {"  "}redirect("https://www.blogpage.com"); <br />
+                {"  "}redirect(&quot;https://www.blogpage.com&quot;); <br />
                 &#125;
               </code>
             </pre>
