@@ -49,8 +49,8 @@ export default function Three() {
         </p>
         <br />
         <p>
-          It's worth noting that these technologies can be combined within the
-          same project to leverage the strengths of each, depending on the
+          It&apos;s worth noting that these technologies can be combined within
+          the same project to leverage the strengths of each, depending on the
           specific requirements of different parts of an application.
         </p>
         <br />

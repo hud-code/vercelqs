@@ -15,7 +15,7 @@ export default function Five() {
             <i>
               I&apos;m so frustrated. I&apos;ve been trying to make this work
               for hours and I just can&apos;t figure it out. It must be a
-              platform issue so why don't you just fix it for me instead of
+              platform issue so why don&apos;t you just fix it for me instead of
               asking me questions.
             </i>{" "}
             <br />
