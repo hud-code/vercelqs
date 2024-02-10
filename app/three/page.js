@@ -19,9 +19,10 @@ export default function Three() {
         </p>
         <p>
           Edge Functions run at the edge of the network, closer to the user,
-          which significantly reduces latency by executing logic near the user's
-          location. They are ideal for high performance, low latency,
-          geotargeting, or even to implement authentication, such as redirects.
+          which significantly reduces latency by executing logic near the
+          user&apos;s location. They are ideal for high performance, low
+          latency, geotargeting, or even to implement authentication, such as
+          redirects.
         </p>
         <br />
         <p>

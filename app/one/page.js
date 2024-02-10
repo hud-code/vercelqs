@@ -34,14 +34,14 @@ export default function One() {
         <p>
           After my first year at CircleCI working with this system, things with
           this app started to break. The automations were no longer triggering,
-          we were missing notifications, and tickets weren’t being triaged in a
-          timely manner. Additionally, we had no path to resolve the issues with
-          the app ourselves since we were not the code owners. So instead, I
-          took on the task to rethink how we were using triage. I wanted to
-          ensure we weren’t using more custom applications than we needed to so
-          we didn’t end up in the same situation in the future, and I also
-          wanted to stop the lopsided nature of how we ran triage to improve the
-          day to day for the team as a whole.{" "}
+          we were missing notifications, and tickets weren&apos;t being triaged
+          in a timely manner. Additionally, we had no path to resolve the issues
+          with the app ourselves since we were not the code owners. So instead,
+          I took on the task to rethink how we were using triage. I wanted to
+          ensure we weren&apos;t using more custom applications than we needed
+          to so we didn&apos;t end up in the same situation in the future, and I
+          also wanted to stop the lopsided nature of how we ran triage to
+          improve the day to day for the team as a whole.{" "}
         </p>
         <br />
         <p>

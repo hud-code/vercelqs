@@ -12,7 +12,7 @@ export default function Six() {
             A customer is creating a site and would like their project not to be
             indexed by search engines. Please write a reply to the customer.
             Separately, list any relevant documentation you found and any
-            feedback or information you’d like to share about your decision
+            feedback or information you&apos;d like to share about your decision
             making process.
           </p>
         </div>
@@ -20,8 +20,8 @@ export default function Six() {
         <p>Hello there!</p>
         <br />
         <p>
-          Thank you for reaching out to Vercel Support! It’d be happy to assist
-          you with this.{" "}
+          Thank you for reaching out to Vercel Support! It&apos;d be happy to
+          assist you with this.{" "}
         </p>
         <br />
         <p>
@@ -42,8 +42,8 @@ export default function Six() {
         </p>
         <br />
         <p>
-          I hope this information is helpful, but if there’s anything else I can
-          help you with, please don’t hesitate to ask!
+          I hope this information is helpful, but if there&apos;s anything else
+          I can help you with, please don&apos;t hesitate to ask!
         </p>
         <br />
         <p>Cheers,</p>

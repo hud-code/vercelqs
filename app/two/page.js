@@ -16,8 +16,8 @@ export default function Two() {
         <br />
 
         <p>
-          When comparing Next.js to something like Angular, you’ll find that
-          there are a number of significant differences and intentions when
+          When comparing Next.js to something like Angular, you&apos;ll find
+          that there are a number of significant differences and intentions when
           utilizing either framework. To break this down a bit more, we can look
           at a few different aspects to compare these frameworks by:
         </p>
@@ -26,13 +26,13 @@ export default function Two() {
           <b>Purpose</b>
         </h3>
         <p>
-          Each framework serves a different purpose. Angular’s main focus is a
-          structural framework for dynamic web apps. It uses HTML as the
+          Each framework serves a different purpose. Angular&apos;s main focus
+          is a structural framework for dynamic web apps. It uses HTML as the
           template language and is mainly used for building single-page
           applications. Next.js on the other had provides a server-side
           rendering solution, enabling dynamic and high performance websites
-          with an advantages in SEO due to the entire website’s content being
-          available to crawlers.
+          with an advantages in SEO due to the entire website&apos;s content
+          being available to crawlers.
         </p>
         <br />
         <h3>
@@ -51,10 +51,10 @@ export default function Two() {
         <p>
           When it comes to learning a new framework, a developer will likely
           have a better time learning Next.js due to the simplicity of routing,
-          deep connection to React.js, and many resources available. Angular’s
-          learning curve will be somewhat steeper, although due to how long it’s
-          been around, you will find a wealth of resources at your disposal to
-          assist you in your journey.
+          deep connection to React.js, and many resources available.
+          Angular&apos;s learning curve will be somewhat steeper, although due
+          to how long it&apos;s been around, you will find a wealth of resources
+          at your disposal to assist you in your journey.
         </p>
         <br />
         <Link className="block mt-4 text-blue-600 hover:underline" href="/">
