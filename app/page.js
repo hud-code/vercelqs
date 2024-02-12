@@ -10,7 +10,7 @@ export default function Component() {
         <div className="container py-7">
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-              Bits Ridpath
+              Zach Hudson
             </h1>
             <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
               Welcome to my website. <br /> Please use the links below to
