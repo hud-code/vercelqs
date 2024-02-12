@@ -10,7 +10,7 @@ export default function Four() {
             Question Four
           </h1>
           <p className="text-gray-500 dark:text-gray-400">
-            1. A customer has a project on Vercel and they want to redirect the
+            A customer has a project on Vercel and they want to redirect the
             /blog path to another website. Please write a reply to the customer.
             Separately, list any relevant documentation you found and any
             feedback or information you&rsquo;d like to share about your
