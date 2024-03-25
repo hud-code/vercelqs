@@ -13,8 +13,7 @@ export default function Component() {
               Zach Hudson
             </h1>
             <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Welcome to my website. <br /> Please use the links below to
-              navigate to each question.
+              Welcome to my website. <br /> testing... 
             </p>
             <div className="flex flex-wrap justify-center mt-8 space-x-4">
               <Link className="button-inset [&:focus]:outline-none" href="/one">
