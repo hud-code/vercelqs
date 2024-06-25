@@ -41,7 +41,7 @@ export default function Component() {
                 Five
               </Link>
               <Link className="button-inset [&:focus]:outline-none" href="/six">
-                Six
+                Sixer
               </Link>
               <Link
                 className="button-inset [&:focus]:outline-none"
